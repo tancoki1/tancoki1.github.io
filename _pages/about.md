@@ -14,7 +14,7 @@ I'm a third-year student from [School of social sciences](https://www.sss.tsingh
 
 I am excited to be part of the DIMACS REU 2025 program at Rutgers University. I will complete a research project on AI and the economy under the supervision of Prof. Xia and Postdoctoral Fellow Zhang.
 
-You can find my CV:[Tianqi Li's CV](../assets/Tianqi Li's CV 6.18最新.pdf) and previous part of the writing here.
+You can find my CV:[Tianqi Li's CV](../assets/Tianqi Li's CV.pdf) and previous part of the writing here.
 
 Project Description
 ======
